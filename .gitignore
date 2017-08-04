@@ -1,0 +1,6 @@
+/*
+
+!.gitignore
+!.zshrc
+!.zsh_config/
+.zsh_config/aws_keys.zsh
