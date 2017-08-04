@@ -3,3 +3,10 @@ alias sidecar='SGK_EUREKA_SKIP_REGISTRATION=true; export SGK_BASE_DOMAIN=cirrost
 
 # nifty
 alias chrome='open -a /Applications/Google\ Chrome.app'
+
+# git
+alias gco='git checkout'
+alias gs='git status'
+alias gcm='git commit -m'
+alias gcam='git commit -am'
+alias gaa='git add -A'

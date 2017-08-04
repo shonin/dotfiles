@@ -5,6 +5,8 @@ google() {
     open "https://www.google.com/search?q=${query}"
 }
 
+# opens the JSTOR jira ticket for the argument provided
+# or will open the ticket for the current branch if no arg
 jira() {
     local ticket="$*"
     if [ "$ticket" ]; then
